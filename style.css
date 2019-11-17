@@ -1,0 +1,51 @@
+.h 
+{    color: green; 
+}
+.h
+{
+	text-align: center;
+}
+p
+{
+	font-size: x-large;
+}
+h2
+{
+	font-family: Impact, Times New Roman, "Arial Black", Arial, Verdana, sans-serif;
+}
+p
+{
+	font-family: Arial, Times New Roman, Courier New, Verdana;
+}
+.h
+{
+	text-decoration: underline;
+}
+p
+{
+	text-align: justify;
+}
+h2
+{
+	text-align: normal;
+	color: black;
+}
+body
+{
+	background-image: url("plagefond.png");
+	background-attachment: fixed;
+	color: white;
+	border: 3px red double;
+}
+#bloc_page 
+{    width: 900px;
+	margin: auto; 
+}
+@media all and (max-width: 1024px) 
+{    #bloc_page    
+	{
+		width: auto;
+	} 
+}
+
+
